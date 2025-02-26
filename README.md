@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/github/stars/CelestialCoderrr?style=flat&label=Stars" alt="Stars Count">
   <img src="https://img.shields.io/github/followers/CelestialCoderrr?style=flat&label=Followers" alt="Followers Count">
 
-## About Me
+## About Me:
 <img align="right" alt="coding" width="400" src="https://images.pexels.com/photos/5473311/pexels-photo-5473311.jpeg">
 - 🔬 I’m currently working on web development and machine learning projects
    
