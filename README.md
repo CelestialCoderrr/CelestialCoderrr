@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sandhita Poddar</h1>
 <h3 align="center">A passionate software developer | B.Tech Undergrad from India</h3>
-<img align="right" alt="coding" width="400" src="https://images.pexels.com/photos/5473311/pexels-photo-5473311.jpeg">
+
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=CelestialCoderrr&label=Profile%20views&color=0e75b6&style=flat" alt="CelestialCoderrr" />
   <img src="https://img.shields.io/github/stars/CelestialCoderrr?style=flat&label=Stars" alt="Stars Count">
   <img src="https://img.shields.io/github/followers/CelestialCoderrr?style=flat&label=Followers" alt="Followers Count">
 
+## About Me
+<img align="right" alt="coding" width="400" src="https://images.pexels.com/photos/5473311/pexels-photo-5473311.jpeg">
 - 🔬 I’m currently working on web development and machine learning projects
    
 - 🌱 I’m currently learning **Full Stack Development with PERN stack**
