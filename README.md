@@ -24,8 +24,7 @@
 <a href="https://www.leetcode.com/sandhitapoddar2803" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sandhitapoddar2803" height="30" width="40" /></a>
 </p>
 
-## 🚀 Languages and Tools  
-
+<h3 align="center">Languages and Tools:</h3>
 <table>
   <tr>
     <th>Category</th>
